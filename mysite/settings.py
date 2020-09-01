@@ -25,7 +25,7 @@ SECRET_KEY = 'dzwvv$jb%6&tjb3^tcyhq)us%g)35^8_0fa0*vjd9ve86p%9y='
 # API TOKEN = 5142a22400c548ca547b8401d66c1de7372f1ca4
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = []
 
